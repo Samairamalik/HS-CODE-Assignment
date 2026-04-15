@@ -1,0 +1,414 @@
+chapter,full_code,normalized_code,hs6_prefix,description,source_file
+07,0701.90.10,07019010,070190,Other,Chapter 7_2025HTSRev32.pdf
+07,0701.90.50,07019050,070190,Other,Chapter 7_2025HTSRev32.pdf
+07,0702.00.20,07020020,070200,"Tomatoes, fresh or chilled",Chapter 7_2025HTSRev32.pdf
+07,0702.00.40,07020040,070200,"Tomatoes, fresh or chilled",Chapter 7_2025HTSRev32.pdf
+07,0702.00.60,07020060,070200,"Tomatoes, fresh or chilled",Chapter 7_2025HTSRev32.pdf
+07,0703.10.20,07031020,070310,Onions and shallots,Chapter 7_2025HTSRev32.pdf
+07,0703.10.30,07031030,070310,Onions and shallots,Chapter 7_2025HTSRev32.pdf
+07,0703.10.40,07031040,070310,Onions and shallots,Chapter 7_2025HTSRev32.pdf
+07,0703.20.00,07032000,070320,Onions and shallots,Chapter 7_2025HTSRev32.pdf
+07,0703.90.00,07039000,070390,Onions and shallots,Chapter 7_2025HTSRev32.pdf
+07,0704.10.20,07041020,070410,Cauliflowers and broccoli (Brassica oleracea var. botrytis),Chapter 7_2025HTSRev32.pdf
+07,0704.10.40,07041040,070410,Cauliflowers and broccoli (Brassica oleracea var. botrytis),Chapter 7_2025HTSRev32.pdf
+07,0704.10.60,07041060,070410,Cauliflowers and broccoli (Brassica oleracea var. botrytis),Chapter 7_2025HTSRev32.pdf
+07,0704.20.00,07042000,070420,Cauliflowers and broccoli (Brassica oleracea var. botrytis),Chapter 7_2025HTSRev32.pdf
+07,0704.90.20,07049020,070490,Cauliflowers and broccoli (Brassica oleracea var. botrytis),Chapter 7_2025HTSRev32.pdf
+07,0704.90.40,07049040,070490,Cauliflowers and broccoli (Brassica oleracea var. botrytis),Chapter 7_2025HTSRev32.pdf
+07,0705.11.20,07051120,070511,Head lettuce (cabbage lettuce),Chapter 7_2025HTSRev32.pdf
+07,0705.11.40,07051140,070511,Head lettuce (cabbage lettuce),Chapter 7_2025HTSRev32.pdf
+07,0705.19.20,07051920,070519,Other,Chapter 7_2025HTSRev32.pdf
+07,0705.19.40,07051940,070519,Other,Chapter 7_2025HTSRev32.pdf
+07,0705.21.00,07052100,070521,Other,Chapter 7_2025HTSRev32.pdf
+07,0705.29.00,07052900,070529,Other,Chapter 7_2025HTSRev32.pdf
+07,0706.10.05,07061005,070610,Carrots and turnips,Chapter 7_2025HTSRev32.pdf
+07,0706.10.10,07061010,070610,Carrots and turnips,Chapter 7_2025HTSRev32.pdf
+07,0706.10.20,07061020,070610,Carrots and turnips,Chapter 7_2025HTSRev32.pdf
+07,0706.10.40,07061040,070610,Carrots and turnips,Chapter 7_2025HTSRev32.pdf
+07,0706.90.20,07069020,070690,Other,Chapter 7_2025HTSRev32.pdf
+07,0706.90.30,07069030,070690,Other,Chapter 7_2025HTSRev32.pdf
+07,0706.90.40,07069040,070690,Other,Chapter 7_2025HTSRev32.pdf
+07,0707.00.20,07070020,070700,"Cucumbers, including gherkins, fresh or chilled",Chapter 7_2025HTSRev32.pdf
+07,0707.00.40,07070040,070700,"Cucumbers, including gherkins, fresh or chilled",Chapter 7_2025HTSRev32.pdf
+07,0707.00.50,07070050,070700,"Cucumbers, including gherkins, fresh or chilled",Chapter 7_2025HTSRev32.pdf
+07,0707.00.60,07070060,070700,"Cucumbers, including gherkins, fresh or chilled",Chapter 7_2025HTSRev32.pdf
+07,0708.10.20,07081020,070810,Peas (Pisum sativum),Chapter 7_2025HTSRev32.pdf
+07,0708.10.40,07081040,070810,Peas (Pisum sativum),Chapter 7_2025HTSRev32.pdf
+07,0708.20.10,07082010,070820,"Beans (Vigna spp., Phaseolus spp.)",Chapter 7_2025HTSRev32.pdf
+07,0708.20.20,07082020,070820,"Beans (Vigna spp., Phaseolus spp.)",Chapter 7_2025HTSRev32.pdf
+07,0708.20.90,07082090,070820,"Beans (Vigna spp., Phaseolus spp.)",Chapter 7_2025HTSRev32.pdf
+07,0708.90.05,07089005,070890,Other leguminous vegetables,Chapter 7_2025HTSRev32.pdf
+07,0708.90.15,07089015,070890,Other leguminous vegetables,Chapter 7_2025HTSRev32.pdf
+07,0708.90.25,07089025,070890,Other leguminous vegetables,Chapter 7_2025HTSRev32.pdf
+07,0708.90.30,07089030,070890,Other leguminous vegetables,Chapter 7_2025HTSRev32.pdf
+07,0708.90.40,07089040,070890,Other leguminous vegetables,Chapter 7_2025HTSRev32.pdf
+07,0709.20.10,07092010,070920,Asparagus,Chapter 7_2025HTSRev32.pdf
+07,0709.20.90,07092090,070920,Asparagus,Chapter 7_2025HTSRev32.pdf
+07,0709.30.20,07093020,070930,Eggplants (aubergines),Chapter 7_2025HTSRev32.pdf
+07,0709.30.40,07093040,070930,Eggplants (aubergines),Chapter 7_2025HTSRev32.pdf
+07,0709.40.20,07094020,070940,Celery other than celeriac,Chapter 7_2025HTSRev32.pdf
+07,0709.40.40,07094040,070940,Celery other than celeriac,Chapter 7_2025HTSRev32.pdf
+07,0709.40.60,07094060,070940,Celery other than celeriac,Chapter 7_2025HTSRev32.pdf
+07,0709.51.01,07095101,070951,Celery other than celeriac,Chapter 7_2025HTSRev32.pdf
+07,0709.52.05,07095205,070952,Celery other than celeriac,Chapter 7_2025HTSRev32.pdf
+07,0709.53.00,07095300,070953,Celery other than celeriac,Chapter 7_2025HTSRev32.pdf
+07,0709.54.00,07095400,070954,Celery other than celeriac,Chapter 7_2025HTSRev32.pdf
+07,0709.55.00,07095500,070955,Celery other than celeriac,Chapter 7_2025HTSRev32.pdf
+07,0709.56.00,07095600,070956,Celery other than celeriac,Chapter 7_2025HTSRev32.pdf
+07,0709.59.11,07095911,070959,Other,Chapter 7_2025HTSRev32.pdf
+07,0709.59.91,07095991,070959,Other,Chapter 7_2025HTSRev32.pdf
+07,0709.60.20,07096020,070960,Other,Chapter 7_2025HTSRev32.pdf
+07,0709.60.40,07096040,070960,Other,Chapter 7_2025HTSRev32.pdf
+07,0709.70.00,07097000,070970,Other,Chapter 7_2025HTSRev32.pdf
+07,0709.91.00,07099100,070991,Other,Chapter 7_2025HTSRev32.pdf
+07,0709.92.00,07099200,070992,Other,Chapter 7_2025HTSRev32.pdf
+07,0709.93.10,07099310,070993,"Pumpkins, squash and gourds (Cucurbita spp.)",Chapter 7_2025HTSRev32.pdf
+07,0709.93.20,07099320,070993,"Pumpkins, squash and gourds (Cucurbita spp.)",Chapter 7_2025HTSRev32.pdf
+07,0709.93.30,07099330,070993,"Pumpkins, squash and gourds (Cucurbita spp.)",Chapter 7_2025HTSRev32.pdf
+07,0709.99.05,07099905,070999,Other,Chapter 7_2025HTSRev32.pdf
+07,0709.99.10,07099910,070999,Other,Chapter 7_2025HTSRev32.pdf
+07,0709.99.14,07099914,070999,Other,Chapter 7_2025HTSRev32.pdf
+07,0709.99.30,07099930,070999,Other,Chapter 7_2025HTSRev32.pdf
+07,0709.99.45,07099945,070999,Other,Chapter 7_2025HTSRev32.pdf
+07,0709.99.90,07099990,070999,Other,Chapter 7_2025HTSRev32.pdf
+07,0710.10.00,07101000,071010,Other,Chapter 7_2025HTSRev32.pdf
+07,0710.21.20,07102120,071021,Peas (Pisum sativum),Chapter 7_2025HTSRev32.pdf
+07,0710.21.40,07102140,071021,Peas (Pisum sativum),Chapter 7_2025HTSRev32.pdf
+07,0710.22.10,07102210,071022,"Beans (Vigna spp., Phaseolus spp.)",Chapter 7_2025HTSRev32.pdf
+07,0710.22.15,07102215,071022,"Beans (Vigna spp., Phaseolus spp.)",Chapter 7_2025HTSRev32.pdf
+07,0710.22.20,07102220,071022,"Beans (Vigna spp., Phaseolus spp.)",Chapter 7_2025HTSRev32.pdf
+07,0710.22.25,07102225,071022,"Beans (Vigna spp., Phaseolus spp.)",Chapter 7_2025HTSRev32.pdf
+07,0710.22.37,07102237,071022,"Beans (Vigna spp., Phaseolus spp.)",Chapter 7_2025HTSRev32.pdf
+07,0710.22.40,07102240,071022,"Beans (Vigna spp., Phaseolus spp.)",Chapter 7_2025HTSRev32.pdf
+07,0710.29.05,07102905,071029,Other,Chapter 7_2025HTSRev32.pdf
+07,0710.29.15,07102915,071029,Other,Chapter 7_2025HTSRev32.pdf
+07,0710.29.25,07102925,071029,Other,Chapter 7_2025HTSRev32.pdf
+07,0710.29.30,07102930,071029,Other,Chapter 7_2025HTSRev32.pdf
+07,0710.29.40,07102940,071029,Other,Chapter 7_2025HTSRev32.pdf
+07,0710.30.00,07103000,071030,Other,Chapter 7_2025HTSRev32.pdf
+07,0710.40.00,07104000,071040,Other,Chapter 7_2025HTSRev32.pdf
+07,0710.80.15,07108015,071080,Other vegetables,Chapter 7_2025HTSRev32.pdf
+07,0710.80.20,07108020,071080,Other vegetables,Chapter 7_2025HTSRev32.pdf
+07,0710.80.40,07108040,071080,Other vegetables,Chapter 7_2025HTSRev32.pdf
+07,0710.80.45,07108045,071080,Other vegetables,Chapter 7_2025HTSRev32.pdf
+07,0710.80.50,07108050,071080,Other vegetables,Chapter 7_2025HTSRev32.pdf
+07,0710.80.60,07108060,071080,Other vegetables,Chapter 7_2025HTSRev32.pdf
+07,0710.80.65,07108065,071080,Other vegetables,Chapter 7_2025HTSRev32.pdf
+07,0710.80.70,07108070,071080,Other vegetables,Chapter 7_2025HTSRev32.pdf
+07,0710.80.85,07108085,071080,Other vegetables,Chapter 7_2025HTSRev32.pdf
+07,0710.80.93,07108093,071080,Other vegetables,Chapter 7_2025HTSRev32.pdf
+07,0710.80.97,07108097,071080,Other vegetables,Chapter 7_2025HTSRev32.pdf
+07,0710.90.11,07109011,071090,Mixtures of vegetables,Chapter 7_2025HTSRev32.pdf
+07,0710.90.91,07109091,071090,Mixtures of vegetables,Chapter 7_2025HTSRev32.pdf
+07,0711.20.18,07112018,071120,Olives,Chapter 7_2025HTSRev32.pdf
+07,0711.20.28,07112028,071120,Olives,Chapter 7_2025HTSRev32.pdf
+07,0711.20.38,07112038,071120,Olives,Chapter 7_2025HTSRev32.pdf
+07,0711.20.40,07112040,071120,Olives,Chapter 7_2025HTSRev32.pdf
+07,0711.40.00,07114000,071140,Olives,Chapter 7_2025HTSRev32.pdf
+07,0711.51.00,07115100,071151,Olives,Chapter 7_2025HTSRev32.pdf
+07,0711.59.10,07115910,071159,Other,Chapter 7_2025HTSRev32.pdf
+07,0711.59.90,07115990,071159,Other,Chapter 7_2025HTSRev32.pdf
+07,0711.90.20,07119020,071190,Other vegetables; mixtures of vegetables,Chapter 7_2025HTSRev32.pdf
+07,0711.90.30,07119030,071190,Other vegetables; mixtures of vegetables,Chapter 7_2025HTSRev32.pdf
+07,0711.90.50,07119050,071190,Other vegetables; mixtures of vegetables,Chapter 7_2025HTSRev32.pdf
+07,0711.90.65,07119065,071190,Other vegetables; mixtures of vegetables,Chapter 7_2025HTSRev32.pdf
+07,0712.20.20,07122020,071220,Onions,Chapter 7_2025HTSRev32.pdf
+07,0712.20.40,07122040,071220,Onions,Chapter 7_2025HTSRev32.pdf
+07,0712.31.10,07123110,071231,Mushrooms of the genus Agaricus,Chapter 7_2025HTSRev32.pdf
+07,0712.31.20,07123120,071231,Mushrooms of the genus Agaricus,Chapter 7_2025HTSRev32.pdf
+07,0712.32.00,07123200,071232,Mushrooms of the genus Agaricus,Chapter 7_2025HTSRev32.pdf
+07,0712.33.00,07123300,071233,Mushrooms of the genus Agaricus,Chapter 7_2025HTSRev32.pdf
+07,0712.34.10,07123410,071234,Shiitake (Lentinus edodes),Chapter 7_2025HTSRev32.pdf
+07,0712.34.20,07123420,071234,Shiitake (Lentinus edodes),Chapter 7_2025HTSRev32.pdf
+07,0712.39.11,07123911,071239,Other,Chapter 7_2025HTSRev32.pdf
+07,0712.39.21,07123921,071239,Other,Chapter 7_2025HTSRev32.pdf
+07,0712.39.40,07123940,071239,Other,Chapter 7_2025HTSRev32.pdf
+07,0712.90.10,07129010,071290,Other vegetables; mixtures of vegetables,Chapter 7_2025HTSRev32.pdf
+07,0712.90.15,07129015,071290,Other vegetables; mixtures of vegetables,Chapter 7_2025HTSRev32.pdf
+07,0712.90.20,07129020,071290,Other vegetables; mixtures of vegetables,Chapter 7_2025HTSRev32.pdf
+07,0712.90.30,07129030,071290,Other vegetables; mixtures of vegetables,Chapter 7_2025HTSRev32.pdf
+07,0712.90.40,07129040,071290,Other vegetables; mixtures of vegetables,Chapter 7_2025HTSRev32.pdf
+07,0712.90.60,07129060,071290,Other vegetables; mixtures of vegetables,Chapter 7_2025HTSRev32.pdf
+07,0712.90.65,07129065,071290,Other vegetables; mixtures of vegetables,Chapter 7_2025HTSRev32.pdf
+07,0712.90.70,07129070,071290,Other vegetables; mixtures of vegetables,Chapter 7_2025HTSRev32.pdf
+07,0712.90.74,07129074,071290,Other vegetables; mixtures of vegetables,Chapter 7_2025HTSRev32.pdf
+07,0712.90.78,07129078,071290,Other vegetables; mixtures of vegetables,Chapter 7_2025HTSRev32.pdf
+07,0712.90.85,07129085,071290,Other vegetables; mixtures of vegetables,Chapter 7_2025HTSRev32.pdf
+07,0713.10.10,07131010,071310,Peas (Pisum sativum),Chapter 7_2025HTSRev32.pdf
+07,0713.10.20,07131020,071310,Peas (Pisum sativum),Chapter 7_2025HTSRev32.pdf
+07,0713.10.40,07131040,071310,Peas (Pisum sativum),Chapter 7_2025HTSRev32.pdf
+07,0713.20.10,07132010,071320,Chickpeas (garbanzos),Chapter 7_2025HTSRev32.pdf
+07,0713.20.20,07132020,071320,Chickpeas (garbanzos),Chapter 7_2025HTSRev32.pdf
+07,0713.31.10,07133110,071331,Chickpeas (garbanzos),Chapter 7_2025HTSRev32.pdf
+07,0713.31.20,07133120,071331,Chickpeas (garbanzos),Chapter 7_2025HTSRev32.pdf
+07,0713.31.40,07133140,071331,Chickpeas (garbanzos),Chapter 7_2025HTSRev32.pdf
+07,0713.32.10,07133210,071332,Chickpeas (garbanzos),Chapter 7_2025HTSRev32.pdf
+07,0713.32.20,07133220,071332,Chickpeas (garbanzos),Chapter 7_2025HTSRev32.pdf
+07,0713.33.10,07133310,071333,Chickpeas (garbanzos),Chapter 7_2025HTSRev32.pdf
+07,0713.33.20,07133320,071333,Chickpeas (garbanzos),Chapter 7_2025HTSRev32.pdf
+07,0713.33.40,07133340,071333,Chickpeas (garbanzos),Chapter 7_2025HTSRev32.pdf
+07,0713.34.10,07133410,071334,Chickpeas (garbanzos),Chapter 7_2025HTSRev32.pdf
+07,0713.34.20,07133420,071334,Chickpeas (garbanzos),Chapter 7_2025HTSRev32.pdf
+07,0713.34.40,07133440,071334,Chickpeas (garbanzos),Chapter 7_2025HTSRev32.pdf
+07,0713.35.00,07133500,071335,Chickpeas (garbanzos),Chapter 7_2025HTSRev32.pdf
+07,0713.39.11,07133911,071339,Other,Chapter 7_2025HTSRev32.pdf
+07,0713.39.21,07133921,071339,Other,Chapter 7_2025HTSRev32.pdf
+07,0713.39.41,07133941,071339,Other,Chapter 7_2025HTSRev32.pdf
+07,0713.40.10,07134010,071340,Lentils,Chapter 7_2025HTSRev32.pdf
+07,0713.40.20,07134020,071340,Lentils,Chapter 7_2025HTSRev32.pdf
+07,0713.50.10,07135010,071350,Lentils,Chapter 7_2025HTSRev32.pdf
+07,0713.50.20,07135020,071350,Lentils,Chapter 7_2025HTSRev32.pdf
+07,0713.60.10,07136010,071360,Pigeon peas (Cajanus cajan),Chapter 7_2025HTSRev32.pdf
+07,0713.60.60,07136060,071360,Pigeon peas (Cajanus cajan),Chapter 7_2025HTSRev32.pdf
+07,0713.60.80,07136080,071360,Pigeon peas (Cajanus cajan),Chapter 7_2025HTSRev32.pdf
+07,0713.90.11,07139011,071390,Other,Chapter 7_2025HTSRev32.pdf
+07,0713.90.50,07139050,071390,Other,Chapter 7_2025HTSRev32.pdf
+07,0713.90.61,07139061,071390,Other,Chapter 7_2025HTSRev32.pdf
+07,0713.90.81,07139081,071390,Other,Chapter 7_2025HTSRev32.pdf
+07,0714.10.10,07141010,071410,Cassava (manioc),Chapter 7_2025HTSRev32.pdf
+07,0714.10.20,07141020,071410,Cassava (manioc),Chapter 7_2025HTSRev32.pdf
+07,0714.20.10,07142010,071420,Sweet potatoes,Chapter 7_2025HTSRev32.pdf
+07,0714.20.20,07142020,071420,Sweet potatoes,Chapter 7_2025HTSRev32.pdf
+07,0714.30.10,07143010,071430,Yams (Dioscorea spp.),Chapter 7_2025HTSRev32.pdf
+07,0714.30.20,07143020,071430,Yams (Dioscorea spp.),Chapter 7_2025HTSRev32.pdf
+07,0714.30.50,07143050,071430,Yams (Dioscorea spp.),Chapter 7_2025HTSRev32.pdf
+07,0714.30.60,07143060,071430,Yams (Dioscorea spp.),Chapter 7_2025HTSRev32.pdf
+07,0714.40.10,07144010,071440,Taro (Colocasia spp.),Chapter 7_2025HTSRev32.pdf
+07,0714.40.20,07144020,071440,Taro (Colocasia spp.),Chapter 7_2025HTSRev32.pdf
+07,0714.40.50,07144050,071440,Taro (Colocasia spp.),Chapter 7_2025HTSRev32.pdf
+07,0714.40.60,07144060,071440,Taro (Colocasia spp.),Chapter 7_2025HTSRev32.pdf
+07,0714.50.10,07145010,071450,Yautia (Xanthosoma spp.),Chapter 7_2025HTSRev32.pdf
+07,0714.50.20,07145020,071450,Yautia (Xanthosoma spp.),Chapter 7_2025HTSRev32.pdf
+07,0714.50.50,07145050,071450,Yautia (Xanthosoma spp.),Chapter 7_2025HTSRev32.pdf
+07,0714.50.60,07145060,071450,Yautia (Xanthosoma spp.),Chapter 7_2025HTSRev32.pdf
+07,0714.90.05,07149005,071490,Other,Chapter 7_2025HTSRev32.pdf
+07,0714.90.39,07149039,071490,Other,Chapter 7_2025HTSRev32.pdf
+07,0714.90.41,07149041,071490,Other,Chapter 7_2025HTSRev32.pdf
+07,0714.90.42,07149042,071490,Other,Chapter 7_2025HTSRev32.pdf
+07,0714.90.44,07149044,071490,Other,Chapter 7_2025HTSRev32.pdf
+07,0714.90.46,07149046,071490,Other,Chapter 7_2025HTSRev32.pdf
+07,0714.90.48,07149048,071490,Other,Chapter 7_2025HTSRev32.pdf
+07,0714.90.51,07149051,071490,Other,Chapter 7_2025HTSRev32.pdf
+07,0714.90.61,07149061,071490,Other,Chapter 7_2025HTSRev32.pdf
+08,0802.91.10,08029110,080291,"Pine nuts, in shell",Chapter 8_2025HTSRev32.pdf
+08,0802.91.90,08029190,080291,"Pine nuts, in shell",Chapter 8_2025HTSRev32.pdf
+08,0802.92.10,08029210,080292,"Pine nuts, shelled",Chapter 8_2025HTSRev32.pdf
+08,0802.92.90,08029290,080292,"Pine nuts, shelled",Chapter 8_2025HTSRev32.pdf
+08,0802.99.10,08029910,080299,Other,Chapter 8_2025HTSRev32.pdf
+08,0802.99.15,08029915,080299,Other,Chapter 8_2025HTSRev32.pdf
+08,0802.99.82,08029982,080299,Other,Chapter 8_2025HTSRev32.pdf
+08,0802.99.98,08029998,080299,Other,Chapter 8_2025HTSRev32.pdf
+08,0803.10.10,08031010,080310,Plantains,Chapter 8_2025HTSRev32.pdf
+08,0803.10.20,08031020,080310,Plantains,Chapter 8_2025HTSRev32.pdf
+08,0803.90.00,08039000,080390,Plantains,Chapter 8_2025HTSRev32.pdf
+08,0804.10.20,08041020,080410,Dates,Chapter 8_2025HTSRev32.pdf
+08,0804.10.40,08041040,080410,Dates,Chapter 8_2025HTSRev32.pdf
+08,0804.10.60,08041060,080410,Dates,Chapter 8_2025HTSRev32.pdf
+08,0804.10.80,08041080,080410,Dates,Chapter 8_2025HTSRev32.pdf
+08,0804.20.40,08042040,080420,Figs,Chapter 8_2025HTSRev32.pdf
+08,0804.20.60,08042060,080420,Figs,Chapter 8_2025HTSRev32.pdf
+08,0804.20.80,08042080,080420,Figs,Chapter 8_2025HTSRev32.pdf
+08,0804.30.20,08043020,080430,Pineapples,Chapter 8_2025HTSRev32.pdf
+08,0804.30.40,08043040,080430,Pineapples,Chapter 8_2025HTSRev32.pdf
+08,0804.30.60,08043060,080430,Pineapples,Chapter 8_2025HTSRev32.pdf
+08,0804.40.00,08044000,080440,Pineapples,Chapter 8_2025HTSRev32.pdf
+08,0804.50.40,08045040,080450,"Guavas, mangoes and mangosteens",Chapter 8_2025HTSRev32.pdf
+08,0804.50.60,08045060,080450,"Guavas, mangoes and mangosteens",Chapter 8_2025HTSRev32.pdf
+08,0804.50.80,08045080,080450,"Guavas, mangoes and mangosteens",Chapter 8_2025HTSRev32.pdf
+08,0805.10.00,08051000,080510,"Guavas, mangoes and mangosteens",Chapter 8_2025HTSRev32.pdf
+08,0805.21.00,08052100,080521,"Guavas, mangoes and mangosteens",Chapter 8_2025HTSRev32.pdf
+08,0805.22.00,08052200,080522,"Guavas, mangoes and mangosteens",Chapter 8_2025HTSRev32.pdf
+08,0805.29.00,08052900,080529,"Guavas, mangoes and mangosteens",Chapter 8_2025HTSRev32.pdf
+08,0805.40.40,08054040,080540,Grapefruit and pomelos,Chapter 8_2025HTSRev32.pdf
+08,0805.40.60,08054060,080540,Grapefruit and pomelos,Chapter 8_2025HTSRev32.pdf
+08,0805.40.80,08054080,080540,Grapefruit and pomelos,Chapter 8_2025HTSRev32.pdf
+08,0805.50.20,08055020,080550,Grapefruit and pomelos,Chapter 8_2025HTSRev32.pdf
+08,0805.50.30,08055030,080550,Grapefruit and pomelos,Chapter 8_2025HTSRev32.pdf
+08,0805.50.40,08055040,080550,Grapefruit and pomelos,Chapter 8_2025HTSRev32.pdf
+08,0805.90.01,08059001,080590,Grapefruit and pomelos,Chapter 8_2025HTSRev32.pdf
+08,0806.10.20,08061020,080610,Fresh,Chapter 8_2025HTSRev32.pdf
+08,0806.10.40,08061040,080610,Fresh,Chapter 8_2025HTSRev32.pdf
+08,0806.10.60,08061060,080610,Fresh,Chapter 8_2025HTSRev32.pdf
+08,0806.20.10,08062010,080620,Dried,Chapter 8_2025HTSRev32.pdf
+08,0806.20.20,08062020,080620,Dried,Chapter 8_2025HTSRev32.pdf
+08,0806.20.90,08062090,080620,Dried,Chapter 8_2025HTSRev32.pdf
+08,0807.11.30,08071130,080711,Watermelons,Chapter 8_2025HTSRev32.pdf
+08,0807.11.40,08071140,080711,Watermelons,Chapter 8_2025HTSRev32.pdf
+08,0807.19.10,08071910,080719,Other,Chapter 8_2025HTSRev32.pdf
+08,0807.19.20,08071920,080719,Other,Chapter 8_2025HTSRev32.pdf
+08,0807.19.50,08071950,080719,Other,Chapter 8_2025HTSRev32.pdf
+08,0807.19.60,08071960,080719,Other,Chapter 8_2025HTSRev32.pdf
+08,0807.19.70,08071970,080719,Other,Chapter 8_2025HTSRev32.pdf
+08,0807.19.80,08071980,080719,Other,Chapter 8_2025HTSRev32.pdf
+08,0807.20.00,08072000,080720,Other,Chapter 8_2025HTSRev32.pdf
+08,0808.10.00,08081000,080810,Other,Chapter 8_2025HTSRev32.pdf
+08,0808.30.20,08083020,080830,Pears,Chapter 8_2025HTSRev32.pdf
+08,0808.30.40,08083040,080830,Pears,Chapter 8_2025HTSRev32.pdf
+08,0808.40.20,08084020,080840,Quinces,Chapter 8_2025HTSRev32.pdf
+08,0808.40.40,08084040,080840,Quinces,Chapter 8_2025HTSRev32.pdf
+08,0809.10.00,08091000,080910,Quinces,Chapter 8_2025HTSRev32.pdf
+08,0809.21.00,08092100,080921,Quinces,Chapter 8_2025HTSRev32.pdf
+08,0809.29.00,08092900,080929,Quinces,Chapter 8_2025HTSRev32.pdf
+08,0809.30.20,08093020,080930,"Peaches, including nectarines",Chapter 8_2025HTSRev32.pdf
+08,0809.30.40,08093040,080930,"Peaches, including nectarines",Chapter 8_2025HTSRev32.pdf
+08,0809.40.20,08094020,080940,Plums (including prune plums) and sloes,Chapter 8_2025HTSRev32.pdf
+08,0809.40.40,08094040,080940,Plums (including prune plums) and sloes,Chapter 8_2025HTSRev32.pdf
+08,0810.10.20,08101020,081010,Strawberries,Chapter 8_2025HTSRev32.pdf
+08,0810.10.40,08101040,081010,Strawberries,Chapter 8_2025HTSRev32.pdf
+08,0810.20.10,08102010,081020,"Raspberries, blackberries, mulberries and loganberries",Chapter 8_2025HTSRev32.pdf
+08,0810.20.90,08102090,081020,"Raspberries, blackberries, mulberries and loganberries",Chapter 8_2025HTSRev32.pdf
+08,0810.30.00,08103000,081030,"Raspberries, blackberries, mulberries and loganberries",Chapter 8_2025HTSRev32.pdf
+08,0810.40.00,08104000,081040,"Raspberries, blackberries, mulberries and loganberries",Chapter 8_2025HTSRev32.pdf
+08,0810.50.00,08105000,081050,"Raspberries, blackberries, mulberries and loganberries",Chapter 8_2025HTSRev32.pdf
+08,0810.60.00,08106000,081060,"Raspberries, blackberries, mulberries and loganberries",Chapter 8_2025HTSRev32.pdf
+08,0810.70.00,08107000,081070,"Raspberries, blackberries, mulberries and loganberries",Chapter 8_2025HTSRev32.pdf
+08,0810.90.27,08109027,081090,Other,Chapter 8_2025HTSRev32.pdf
+08,0810.90.46,08109046,081090,Other,Chapter 8_2025HTSRev32.pdf
+08,0811.10.00,08111000,081110,Other,Chapter 8_2025HTSRev32.pdf
+08,0811.20.20,08112020,081120,Other,Chapter 8_2025HTSRev32.pdf
+08,0811.20.40,08112040,081120,Other,Chapter 8_2025HTSRev32.pdf
+08,0811.90.10,08119010,081190,Other,Chapter 8_2025HTSRev32.pdf
+08,0811.90.20,08119020,081190,Other,Chapter 8_2025HTSRev32.pdf
+08,0811.90.22,08119022,081190,Other,Chapter 8_2025HTSRev32.pdf
+08,0811.90.25,08119025,081190,Other,Chapter 8_2025HTSRev32.pdf
+08,0811.90.30,08119030,081190,Other,Chapter 8_2025HTSRev32.pdf
+08,0811.90.35,08119035,081190,Other,Chapter 8_2025HTSRev32.pdf
+08,0811.90.40,08119040,081190,Other,Chapter 8_2025HTSRev32.pdf
+08,0811.90.50,08119050,081190,Other,Chapter 8_2025HTSRev32.pdf
+08,0811.90.52,08119052,081190,Other,Chapter 8_2025HTSRev32.pdf
+08,0811.90.55,08119055,081190,Other,Chapter 8_2025HTSRev32.pdf
+08,0811.90.80,08119080,081190,Other,Chapter 8_2025HTSRev32.pdf
+08,0812.10.00,08121000,081210,Other,Chapter 8_2025HTSRev32.pdf
+08,0812.90.10,08129010,081290,Other,Chapter 8_2025HTSRev32.pdf
+08,0812.90.20,08129020,081290,Other,Chapter 8_2025HTSRev32.pdf
+08,0812.90.30,08129030,081290,Other,Chapter 8_2025HTSRev32.pdf
+08,0812.90.40,08129040,081290,Other,Chapter 8_2025HTSRev32.pdf
+08,0812.90.50,08129050,081290,Other,Chapter 8_2025HTSRev32.pdf
+08,0812.90.90,08129090,081290,Other,Chapter 8_2025HTSRev32.pdf
+08,0813.10.00,08131000,081310,Other,Chapter 8_2025HTSRev32.pdf
+08,0813.20.10,08132010,081320,Prunes,Chapter 8_2025HTSRev32.pdf
+08,0813.20.20,08132020,081320,Prunes,Chapter 8_2025HTSRev32.pdf
+08,0813.30.00,08133000,081330,Prunes,Chapter 8_2025HTSRev32.pdf
+08,0813.40.10,08134010,081340,Other fruit,Chapter 8_2025HTSRev32.pdf
+08,0813.40.15,08134015,081340,Other fruit,Chapter 8_2025HTSRev32.pdf
+08,0813.40.20,08134020,081340,Other fruit,Chapter 8_2025HTSRev32.pdf
+08,0813.40.30,08134030,081340,Other fruit,Chapter 8_2025HTSRev32.pdf
+08,0813.40.40,08134040,081340,Other fruit,Chapter 8_2025HTSRev32.pdf
+08,0813.40.80,08134080,081340,Other fruit,Chapter 8_2025HTSRev32.pdf
+08,0813.40.90,08134090,081340,Other fruit,Chapter 8_2025HTSRev32.pdf
+08,0813.50.00,08135000,081350,Other fruit,Chapter 8_2025HTSRev32.pdf
+08,0814.00.10,08140010,081400,Other fruit,Chapter 8_2025HTSRev32.pdf
+08,0814.00.40,08140040,081400,Other fruit,Chapter 8_2025HTSRev32.pdf
+08,0814.00.80,08140080,081400,Other fruit,Chapter 8_2025HTSRev32.pdf
+09,0901.90.10,09019010,090190,Other,Chapter 9_2025HTSRev32.pdf
+09,0901.90.20,09019020,090190,Other,Chapter 9_2025HTSRev32.pdf
+09,0902.10.10,09021010,090210,Other,Chapter 9_2025HTSRev32.pdf
+09,0902.10.90,09021090,090210,Other,Chapter 9_2025HTSRev32.pdf
+09,0902.20.10,09022010,090220,Other green tea (not fermented),Chapter 9_2025HTSRev32.pdf
+09,0902.20.90,09022090,090220,Other green tea (not fermented),Chapter 9_2025HTSRev32.pdf
+09,0902.30.00,09023000,090230,Other green tea (not fermented),Chapter 9_2025HTSRev32.pdf
+09,0902.40.00,09024000,090240,Other green tea (not fermented),Chapter 9_2025HTSRev32.pdf
+09,0903.00.00,09030000,090300,Other green tea (not fermented),Chapter 9_2025HTSRev32.pdf
+09,0904.11.00,09041100,090411,Other green tea (not fermented),Chapter 9_2025HTSRev32.pdf
+09,0904.12.00,09041200,090412,Other green tea (not fermented),Chapter 9_2025HTSRev32.pdf
+09,0904.21.20,09042120,090421,"Dried, neither crushed nor ground",Chapter 9_2025HTSRev32.pdf
+09,0904.21.40,09042140,090421,"Dried, neither crushed nor ground",Chapter 9_2025HTSRev32.pdf
+09,0904.21.60,09042160,090421,"Dried, neither crushed nor ground",Chapter 9_2025HTSRev32.pdf
+09,0904.21.80,09042180,090421,"Dried, neither crushed nor ground",Chapter 9_2025HTSRev32.pdf
+09,0904.22.20,09042220,090422,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0904.22.40,09042240,090422,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0904.22.73,09042273,090422,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0904.22.76,09042276,090422,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0904.22.80,09042280,090422,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0905.10.00,09051000,090510,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0905.20.00,09052000,090520,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0906.11.00,09061100,090611,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0906.19.00,09061900,090619,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0906.20.00,09062000,090620,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0907.10.00,09071000,090710,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0907.20.00,09072000,090720,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0908.11.00,09081100,090811,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0908.12.00,09081200,090812,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0908.21.00,09082100,090821,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0908.22.20,09082220,090822,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0908.22.40,09082240,090822,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0908.31.00,09083100,090831,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0908.32.00,09083200,090832,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0909.21.00,09092100,090921,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0909.22.00,09092200,090922,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0909.31.00,09093100,090931,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0909.32.00,09093200,090932,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0909.61.00,09096100,090961,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0909.62.00,09096200,090962,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0910.11.00,09101100,091011,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0910.12.00,09101200,091012,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0910.20.00,09102000,091020,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0910.30.00,09103000,091030,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0910.91.00,09109100,091091,Crushed or ground,Chapter 9_2025HTSRev32.pdf
+09,0910.99.05,09109905,091099,Other,Chapter 9_2025HTSRev32.pdf
+09,0910.99.06,09109906,091099,Other,Chapter 9_2025HTSRev32.pdf
+09,0910.99.07,09109907,091099,Other,Chapter 9_2025HTSRev32.pdf
+09,0910.99.10,09109910,091099,Other,Chapter 9_2025HTSRev32.pdf
+09,0910.99.20,09109920,091099,Other,Chapter 9_2025HTSRev32.pdf
+09,0910.99.40,09109940,091099,Other,Chapter 9_2025HTSRev32.pdf
+09,0910.99.50,09109950,091099,Other,Chapter 9_2025HTSRev32.pdf
+09,0910.99.60,09109960,091099,Other,Chapter 9_2025HTSRev32.pdf
+10,1003.90.20,10039020,100390,Other,Chapter 10_2025HTSRev32.pdf
+10,1003.90.40,10039040,100390,Other,Chapter 10_2025HTSRev32.pdf
+10,1004.10.00,10041000,100410,Other,Chapter 10_2025HTSRev32.pdf
+10,1004.90.00,10049000,100490,Other,Chapter 10_2025HTSRev32.pdf
+10,1005.10.00,10051000,100510,Other,Chapter 10_2025HTSRev32.pdf
+10,1005.90.20,10059020,100590,Other,Chapter 10_2025HTSRev32.pdf
+10,1005.90.40,10059040,100590,Other,Chapter 10_2025HTSRev32.pdf
+10,1006.10.00,10061000,100610,Other,Chapter 10_2025HTSRev32.pdf
+10,1006.20.20,10062020,100620,Husked (brown) rice,Chapter 10_2025HTSRev32.pdf
+10,1006.20.40,10062040,100620,Husked (brown) rice,Chapter 10_2025HTSRev32.pdf
+10,1006.30.10,10063010,100630,Husked (brown) rice,Chapter 10_2025HTSRev32.pdf
+10,1006.30.90,10063090,100630,Husked (brown) rice,Chapter 10_2025HTSRev32.pdf
+10,1006.40.00,10064000,100640,Husked (brown) rice,Chapter 10_2025HTSRev32.pdf
+10,1007.10.00,10071000,100710,Husked (brown) rice,Chapter 10_2025HTSRev32.pdf
+10,1007.90.00,10079000,100790,Husked (brown) rice,Chapter 10_2025HTSRev32.pdf
+10,1008.10.00,10081000,100810,Husked (brown) rice,Chapter 10_2025HTSRev32.pdf
+10,1008.21.00,10082100,100821,Husked (brown) rice,Chapter 10_2025HTSRev32.pdf
+10,1008.29.00,10082900,100829,Husked (brown) rice,Chapter 10_2025HTSRev32.pdf
+10,1008.30.00,10083000,100830,Husked (brown) rice,Chapter 10_2025HTSRev32.pdf
+10,1008.40.00,10084000,100840,Husked (brown) rice,Chapter 10_2025HTSRev32.pdf
+10,1008.50.00,10085000,100850,Husked (brown) rice,Chapter 10_2025HTSRev32.pdf
+10,1008.60.00,10086000,100860,Husked (brown) rice,Chapter 10_2025HTSRev32.pdf
+10,1008.90.01,10089001,100890,Husked (brown) rice,Chapter 10_2025HTSRev32.pdf
+11,1102.90.20,11029020,110290,Other,Chapter 11_2025HTSRev32.pdf
+11,1102.90.25,11029025,110290,Other,Chapter 11_2025HTSRev32.pdf
+11,1102.90.27,11029027,110290,Other,Chapter 11_2025HTSRev32.pdf
+11,1102.90.30,11029030,110290,Other,Chapter 11_2025HTSRev32.pdf
+11,1102.90.60,11029060,110290,Other,Chapter 11_2025HTSRev32.pdf
+11,1103.11.00,11031100,110311,Other,Chapter 11_2025HTSRev32.pdf
+11,1103.13.00,11031300,110313,Other,Chapter 11_2025HTSRev32.pdf
+11,1103.19.12,11031912,110319,Of other cereals,Chapter 11_2025HTSRev32.pdf
+11,1103.19.14,11031914,110319,Of other cereals,Chapter 11_2025HTSRev32.pdf
+11,1103.19.90,11031990,110319,Of other cereals,Chapter 11_2025HTSRev32.pdf
+11,1103.20.00,11032000,110320,Of other cereals,Chapter 11_2025HTSRev32.pdf
+11,1104.12.00,11041200,110412,Of other cereals,Chapter 11_2025HTSRev32.pdf
+11,1104.19.10,11041910,110419,Of other cereals,Chapter 11_2025HTSRev32.pdf
+11,1104.19.90,11041990,110419,Of other cereals,Chapter 11_2025HTSRev32.pdf
+11,1104.22.00,11042200,110422,Of other cereals,Chapter 11_2025HTSRev32.pdf
+11,1104.23.00,11042300,110423,Of other cereals,Chapter 11_2025HTSRev32.pdf
+11,1104.29.10,11042910,110429,Of other cereals,Chapter 11_2025HTSRev32.pdf
+11,1104.29.90,11042990,110429,Of other cereals,Chapter 11_2025HTSRev32.pdf
+11,1104.30.00,11043000,110430,Of other cereals,Chapter 11_2025HTSRev32.pdf
+11,1105.10.00,11051000,110510,Of other cereals,Chapter 11_2025HTSRev32.pdf
+11,1105.20.00,11052000,110520,Of other cereals,Chapter 11_2025HTSRev32.pdf
+11,1106.10.00,11061000,110610,Of other cereals,Chapter 11_2025HTSRev32.pdf
+11,1106.20.10,11062010,110620,Of sago or of roots or tubers of heading 0714,Chapter 11_2025HTSRev32.pdf
+11,1106.20.90,11062090,110620,Of sago or of roots or tubers of heading 0714,Chapter 11_2025HTSRev32.pdf
+11,1106.30.20,11063020,110630,Of the products of chapter 8,Chapter 11_2025HTSRev32.pdf
+11,1106.30.40,11063040,110630,Of the products of chapter 8,Chapter 11_2025HTSRev32.pdf
+11,1107.10.00,11071000,110710,Of the products of chapter 8,Chapter 11_2025HTSRev32.pdf
+11,1107.20.00,11072000,110720,Of the products of chapter 8,Chapter 11_2025HTSRev32.pdf
+11,1108.11.00,11081100,110811,Of the products of chapter 8,Chapter 11_2025HTSRev32.pdf
+11,1108.12.00,11081200,110812,Of the products of chapter 8,Chapter 11_2025HTSRev32.pdf
+11,1108.13.00,11081300,110813,Of the products of chapter 8,Chapter 11_2025HTSRev32.pdf
+11,1108.14.00,11081400,110814,Of the products of chapter 8,Chapter 11_2025HTSRev32.pdf
+11,1108.19.00,11081900,110819,Of the products of chapter 8,Chapter 11_2025HTSRev32.pdf
+11,1108.20.00,11082000,110820,Of the products of chapter 8,Chapter 11_2025HTSRev32.pdf
+11,1109.00.10,11090010,110900,"Wheat gluten, whether or not dried",Chapter 11_2025HTSRev32.pdf
+11,1109.00.90,11090090,110900,"Wheat gluten, whether or not dried",Chapter 11_2025HTSRev32.pdf
