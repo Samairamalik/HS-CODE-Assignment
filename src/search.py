@@ -92,7 +92,22 @@ def _intent_boost_hs6(normalized_query: str, hs6_code: str, hs6_desc: str) -> fl
             boost -= 0.10
 
     if "coffee" in q:
-        if any(x in q for x in ["decaf", "decaffeinated"]):
+        has_decaf = any(x in q for x in ["decaf", "decaffeinated"])
+        negates_decaf = any(
+            x in q
+            for x in [
+                "not decaf",
+                "not decaffeinated",
+                "non decaf",
+                "non-decaf",
+                "non decaffeinated",
+                "non-decaffeinated",
+                "without decaf",
+                "without decaffeination",
+            ]
+        )
+
+        if has_decaf and not negates_decaf:
             if hs6_code == "090122":
                 boost += 0.30
         else:

@@ -121,7 +121,8 @@ def _extract_country_candidates(lines: Iterable[str]) -> list[CountryRow]:
     Everything between codes is tariff conditions/duties—we skip it.
     """
     code_re = re.compile(r"(?:\b00)?(\d{4}\.\d{2}\.\d{2}(?:\.\d{2})?)\b")
-    heading_re = re.compile(r"^([^:]+):\s*(\d{4}\.\d{2})\s*$")
+    heading_with_code_re = re.compile(r"^([^:]+):\s*(\d{4}\.\d{2})\s*$")
+    heading_text_only_re = re.compile(r"^([^:]+):\s*$")
     
     rows: list[CountryRow] = []
     current_heading = ""
@@ -131,10 +132,18 @@ def _extract_country_candidates(lines: Iterable[str]) -> list[CountryRow]:
         if not line:
             continue
         
-        # Check for main heading (e.g., "Tomatoes, fresh or chilled: 0702.00")
-        heading_match = heading_re.match(line)
+        # Check for heading with explicit 4-digit prefix (e.g., "Tomatoes, fresh or chilled: 0702.00")
+        heading_match = heading_with_code_re.match(line)
         if heading_match:
             current_heading = _normalize_spaces(heading_match.group(1))
+            continue
+
+        # Check for section heading without explicit code (e.g., "Coffee, roasted:")
+        heading_text_match = heading_text_only_re.match(line)
+        if heading_text_match:
+            heading_text = _normalize_spaces(heading_text_match.group(1))
+            if heading_text:
+                current_heading = heading_text
             continue
         
         # Check for tariff code
@@ -155,8 +164,22 @@ def _extract_country_candidates(lines: Iterable[str]) -> list[CountryRow]:
         if not hs6.isdigit():
             continue
         
-        # Use only the main heading as description
-        desc = current_heading
+        # Extract the text label from the tariff line itself when available.
+        # Example: "Not decaffeinated ... 0901.21.00" -> "Not decaffeinated"
+        line_label = _normalize_spaces(line[: m.start()])
+        line_label = re.sub(r"\.{2,}", " ", line_label)
+        line_label = _normalize_spaces(line_label)
+
+        if line_label and current_heading:
+            # Avoid noisy repeats like "Other - Other".
+            desc = line_label if line_label.lower() == current_heading.lower() else f"{current_heading} - {line_label}"
+        elif line_label:
+            desc = line_label
+        else:
+            desc = current_heading
+
+        # Strip leading footnote artifacts, if any.
+        desc = re.sub(r"^\d+/\s*", "", desc).strip()
         if not desc:
             continue
         
