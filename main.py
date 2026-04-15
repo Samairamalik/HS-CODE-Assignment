@@ -32,6 +32,8 @@ def run_query(args: argparse.Namespace) -> None:
     print(f"  Code:        {result.hs6.code}")
     print(f"  Description: {result.hs6.description}")
     print(f"  Score:       {result.hs6.score:.3f}")
+    print(f"  Match %:     {result.match_percent:.1f}%")
+    print(f"  Confidence:  {result.confidence}")
 
     print("\nCountry Code Match:")
     if result.country is None:
@@ -43,6 +45,21 @@ def run_query(args: argparse.Namespace) -> None:
 
     print("\nWhy this match:")
     print(f"  {result.explanation}")
+
+    if result.notes:
+        print("\nScope Notes:")
+        for note in result.notes:
+            print(f"  - {note}")
+
+    if result.top_hs6:
+        print("\nTop HS-6 Candidates:")
+        for cand in result.top_hs6[:3]:
+            print(f"  - {cand.code} | {cand.description} | score={cand.score:.3f}")
+
+    if result.top_country:
+        print("\nTop Country Candidates:")
+        for cand in result.top_country[:3]:
+            print(f"  - {cand.code} | {cand.description} | score={cand.score:.3f}")
 
 
 def run_compare(args: argparse.Namespace) -> None:

@@ -37,6 +37,12 @@ It uses a hierarchical semantic search pipeline and a TF-IDF baseline for compar
 /usr/local/bin/python3 main.py --query "Fresh round tomatoes"
 ```
 
+This now prints:
+
+- best HS-6 and country match
+- confidence label (High/Medium/Low)
+- top HS-6 and country candidates for diagnostics
+
 ## Run Semantic vs TF-IDF Comparison
 
 ```bash
@@ -44,6 +50,19 @@ It uses a hierarchical semantic search pipeline and a TF-IDF baseline for compar
 ```
 
 This prints a markdown table and writes `comparison_report.md`.
+
+## Run Frontend Dashboard
+
+```bash
+/usr/local/bin/python3 -m streamlit run frontend_app.py
+```
+
+The dashboard provides an interactive classifier view with:
+
+- semantic score and confidence
+- hierarchical match path
+- top candidate breakdown
+- developer JSON preview
 
 ## Notes
 

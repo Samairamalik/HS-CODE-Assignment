@@ -66,6 +66,19 @@ def parse_hs6_pdf(pdf_path: Path) -> list[HS6Row]:
     p_direct = re.compile(r"\b(\d{2})\.(\d{2})\s+(\d{4})\.(\d{2})\s+([^\n]+)")
     # Pattern 2: indented hs6 bullet, e.g. "0701.10 - Seed"
     p_bullet = re.compile(r"(?m)^\s*(\d{4})\.(\d{2})\s*-\s*([^\n]+)")
+    # Pattern 3: chapter heading text, e.g. "07.01  Potatoes, fresh or chilled."
+    p_heading = re.compile(r"(?m)^\s*(\d{2})\.(\d{2})\s+(?!\d{4}\.\d{2})([^\n]+)")
+
+    heading_by_prefix: dict[str, str] = {}
+
+    for m in p_heading.finditer(text):
+        chapter = m.group(1)
+        if not _chapter_ok(chapter):
+            continue
+        prefix = f"{m.group(1)}{m.group(2)}"
+        heading_desc = _normalize_spaces(m.group(3))
+        if heading_desc:
+            heading_by_prefix[prefix] = heading_desc
 
     for m in p_direct.finditer(text):
         chapter = m.group(1)
@@ -75,13 +88,19 @@ def parse_hs6_pdf(pdf_path: Path) -> list[HS6Row]:
         desc = _normalize_spaces(m.group(5))
         if desc:
             rows.append(HS6Row(chapter, hs6, desc, pdf_path.name))
+            heading_by_prefix[hs6[:4]] = desc
 
     for m in p_bullet.finditer(text):
         chapter = m.group(1)[:2]
         if not _chapter_ok(chapter):
             continue
         hs6 = f"{m.group(1)}{m.group(2)}"
-        desc = _normalize_spaces(m.group(3))
+        bullet_desc = _normalize_spaces(m.group(3))
+        heading_desc = heading_by_prefix.get(hs6[:4], "")
+        if heading_desc and bullet_desc:
+            desc = f"{heading_desc} - {bullet_desc}"
+        else:
+            desc = bullet_desc or heading_desc
         if desc:
             rows.append(HS6Row(chapter, hs6, desc, pdf_path.name))
 

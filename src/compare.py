@@ -17,6 +17,8 @@ class ComparisonRow:
     tfidf_hs6: str
     semantic_country: str
     tfidf_country: str
+    semantic_correct: bool
+    baseline_correct: bool
     semantic_better: bool
 
 
@@ -62,6 +64,8 @@ def run_comparison(
                 tfidf_hs6=b.hs6.code,
                 semantic_country=s_country,
                 tfidf_country=b_country,
+                semantic_correct=semantic_ok,
+                baseline_correct=baseline_ok,
                 semantic_better=semantic_better,
             )
         )
@@ -71,14 +75,18 @@ def run_comparison(
 
 def to_markdown(rows: list[ComparisonRow]) -> str:
     lines = []
-    lines.append("| Query | Expected HS-6 | Semantic HS-6 | TF-IDF HS-6 | Semantic Country | TF-IDF Country | Semantic Better? |")
-    lines.append("|---|---|---|---|---|---|---|")
+    lines.append("| Query | Expected HS-6 | Semantic HS-6 | TF-IDF HS-6 | Semantic Correct | TF-IDF Correct | Semantic Country | TF-IDF Country | Semantic Better? |")
+    lines.append("|---|---|---|---|---|---|---|---|---|")
     for row in rows:
         lines.append(
-            f"| {row.query} | {row.expected_hs6} | {row.semantic_hs6} | {row.tfidf_hs6} | {row.semantic_country} | {row.tfidf_country} | {'Yes' if row.semantic_better else 'No'} |"
+            f"| {row.query} | {row.expected_hs6} | {row.semantic_hs6} | {row.tfidf_hs6} | {'Yes' if row.semantic_correct else 'No'} | {'Yes' if row.baseline_correct else 'No'} | {row.semantic_country} | {row.tfidf_country} | {'Yes' if row.semantic_better else 'No'} |"
         )
 
     wins = sum(1 for r in rows if r.semantic_better)
+    semantic_acc = sum(1 for r in rows if r.semantic_correct)
+    baseline_acc = sum(1 for r in rows if r.baseline_correct)
     lines.append("")
-    lines.append(f"Semantic wins: {wins}/{len(rows)}")
+    lines.append(f"Semantic accuracy: {semantic_acc}/{len(rows)}")
+    lines.append(f"TF-IDF accuracy: {baseline_acc}/{len(rows)}")
+    lines.append(f"Semantic wins (strictly better than TF-IDF): {wins}/{len(rows)}")
     return "\n".join(lines)

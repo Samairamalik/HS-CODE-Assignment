@@ -1,236 +1,236 @@
 chapter,hs6_code,description,source_file
-07,070110,Seed,0207_2022e.pdf
-07,070190,Other,0207_2022e.pdf
+07,070110,"Potatoes, fresh or chilled - Seed",0207_2022e.pdf
+07,070190,"Potatoes, fresh or chilled - Other",0207_2022e.pdf
 07,070200,"Tomatoes, fresh or chilled",0207_2022e.pdf
-07,070310,Onions and shallots,0207_2022e.pdf
-07,070320,Garlic,0207_2022e.pdf
-07,070390,Leeks and other alliaceous vegetables,0207_2022e.pdf
-07,070410,Cauliflowers and broccoli,0207_2022e.pdf
-07,070420,Brussels sprouts,0207_2022e.pdf
-07,070490,Other,0207_2022e.pdf
-07,070511,Cabbage lettuce (head lettuce),0207_2022e.pdf
-07,070519,Other,0207_2022e.pdf
-07,070521,Witloof chicory (Cichorium intybus var. foliosum),0207_2022e.pdf
-07,070529,Other,0207_2022e.pdf
-07,070610,Carrots and turnips,0207_2022e.pdf
-07,070690,Other,0207_2022e.pdf
+07,070310,"Onions, shallots, garlic, leeks and other alliaceous vegetables, - Onions and shallots",0207_2022e.pdf
+07,070320,"Onions, shallots, garlic, leeks and other alliaceous vegetables, - Garlic",0207_2022e.pdf
+07,070390,"Onions, shallots, garlic, leeks and other alliaceous vegetables, - Leeks and other alliaceous vegetables",0207_2022e.pdf
+07,070410,"Cabbages, cauliflowers, kohlrabi, kale and similar edible - Cauliflowers and broccoli",0207_2022e.pdf
+07,070420,"Cabbages, cauliflowers, kohlrabi, kale and similar edible - Brussels sprouts",0207_2022e.pdf
+07,070490,"Cabbages, cauliflowers, kohlrabi, kale and similar edible - Other",0207_2022e.pdf
+07,070511,"Lettuce (Lactuca sativa) and chicory (Cichorium spp.), fresh or - Cabbage lettuce (head lettuce)",0207_2022e.pdf
+07,070519,"Lettuce (Lactuca sativa) and chicory (Cichorium spp.), fresh or - Other",0207_2022e.pdf
+07,070521,"Lettuce (Lactuca sativa) and chicory (Cichorium spp.), fresh or - Witloof chicory (Cichorium intybus var. foliosum)",0207_2022e.pdf
+07,070529,"Lettuce (Lactuca sativa) and chicory (Cichorium spp.), fresh or - Other",0207_2022e.pdf
+07,070610,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and - Carrots and turnips",0207_2022e.pdf
+07,070690,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and - Other",0207_2022e.pdf
 07,070700,"Cucumbers and gherkins, fresh or chilled",0207_2022e.pdf
-07,070810,Peas (Pisum sativum),0207_2022e.pdf
-07,070820,"Beans (Vigna spp., Phaseolus spp.)",0207_2022e.pdf
-07,070890,Other leguminous vegetables,0207_2022e.pdf
-07,070920,Asparagus,0207_2022e.pdf
-07,070930,Aubergines (egg-plants),0207_2022e.pdf
-07,070940,Celery other than celeriac,0207_2022e.pdf
-07,070951,Mushrooms of the genus Agaricus,0207_2022e.pdf
-07,070952,Mushrooms of the genus Boletus,0207_2022e.pdf
-07,070953,Mushrooms of the genus Cantharellus,0207_2022e.pdf
-07,070954,Shiitake (Lentinus edodes),0207_2022e.pdf
-07,070955,"Matsutake ( Tricholoma matsutake, Tricholoma magnivelare,",0207_2022e.pdf
-07,070956,Truffles (Tuber spp.),0207_2022e.pdf
-07,070959,Other,0207_2022e.pdf
-07,070960,Fruits of the genus Capsicum or of the genus Pimenta,0207_2022e.pdf
-07,070970,"Spinach, New Zealand spinach and orache spinach (garden spinach)",0207_2022e.pdf
-07,070991,Globe artichokes,0207_2022e.pdf
-07,070992,Olives,0207_2022e.pdf
-07,070993,"Pumpkins, squash and gourds (Cucurbita spp.)",0207_2022e.pdf
-07,070999,Other,0207_2022e.pdf
-07,071010,Potatoes,0207_2022e.pdf
-07,071021,Peas (Pisum sativum),0207_2022e.pdf
-07,071022,"Beans (Vigna spp., Phaseolus spp.)",0207_2022e.pdf
-07,071029,Other,0207_2022e.pdf
-07,071030,"Spinach, New Zealand spinach and orache spinach (garden spinach)",0207_2022e.pdf
-07,071040,Sweet corn,0207_2022e.pdf
-07,071080,Other vegetables,0207_2022e.pdf
-07,071090,Mixtures of vegetables,0207_2022e.pdf
-07,071120,Olives,0207_2022e.pdf
-07,071140,Cucumbers and gherkins,0207_2022e.pdf
-07,071151,Mushrooms of the genus Agaricus,0207_2022e.pdf
-07,071159,Other,0207_2022e.pdf
-07,071190,Other vegetables; mixtures of vegetables,0207_2022e.pdf
-07,071220,Onions,0207_2022e.pdf
-07,071231,Mushrooms of the genus Agaricus,0207_2022e.pdf
-07,071232,Wood ears (Auricularia spp.),0207_2022e.pdf
-07,071233,Jelly fungi (Tremella spp.),0207_2022e.pdf
-07,071234,Shiitake (Lentinus edodes),0207_2022e.pdf
-07,071239,Other,0207_2022e.pdf
-07,071290,Other vegetables; mixtures of vegetables,0207_2022e.pdf
-07,071310,Peas (Pisum sativum),0207_2022e.pdf
-07,071320,Chickpeas (garbanzos),0207_2022e.pdf
-07,071331,Beans of the species Vigna mungo (L.) Hepper or Vigna radiata,0207_2022e.pdf
-07,071332,Small red (Adzuki) beans (Phaseolus or Vigna angularis),0207_2022e.pdf
-07,071333,"Kidney beans, including white pea beans (Phaseolus vulgaris)",0207_2022e.pdf
-07,071334,Bambara beans (Vigna subterranea or Voandzeia subterranea),0207_2022e.pdf
-07,071335,Cow peas (Vigna unguiculata),0207_2022e.pdf
-07,071339,Other,0207_2022e.pdf
-07,071340,Lentils,0207_2022e.pdf
-07,071350,Broad beans ( Vicia faba var. major ) and horse beans ( Vicia faba,0207_2022e.pdf
-07,071360,Pigeon peas (Cajanus cajan),0207_2022e.pdf
-07,071390,Other,0207_2022e.pdf
-07,071410,Manioc (cassava),0207_2022e.pdf
-07,071420,Sweet potatoes,0207_2022e.pdf
-07,071430,Yams (Dioscorea spp.),0207_2022e.pdf
-07,071440,Taro (Colocasia spp.),0207_2022e.pdf
-07,071450,Yautia (Xanthosoma spp.),0207_2022e.pdf
-07,071490,Other,0207_2022e.pdf
-08,080111,Desiccated,0208_2022e.pdf
-08,080112,In the inner shell (endocarp),0208_2022e.pdf
-08,080119,Other,0208_2022e.pdf
-08,080121,In shell,0208_2022e.pdf
-08,080122,Shelled,0208_2022e.pdf
-08,080131,In shell,0208_2022e.pdf
-08,080132,Shelled,0208_2022e.pdf
-08,080211,In shell,0208_2022e.pdf
-08,080212,Shelled,0208_2022e.pdf
-08,080221,In shell,0208_2022e.pdf
-08,080222,Shelled,0208_2022e.pdf
-08,080231,In shell,0208_2022e.pdf
-08,080232,Shelled,0208_2022e.pdf
-08,080241,In shell,0208_2022e.pdf
-08,080242,Shelled,0208_2022e.pdf
-08,080251,In shell,0208_2022e.pdf
-08,080252,Shelled,0208_2022e.pdf
-08,080261,In shell,0208_2022e.pdf
-08,080262,Shelled,0208_2022e.pdf
-08,080270,Kola nuts (Cola spp.),0208_2022e.pdf
-08,080280,Areca nuts,0208_2022e.pdf
-08,080291,"Pine nuts, in shell",0208_2022e.pdf
-08,080292,"Pine nuts, shelled",0208_2022e.pdf
-08,080299,Other,0208_2022e.pdf
-08,080310,Plantains,0208_2022e.pdf
-08,080390,Other,0208_2022e.pdf
-08,080410,Dates,0208_2022e.pdf
-08,080420,Figs,0208_2022e.pdf
-08,080430,Pineapples,0208_2022e.pdf
-08,080440,Avocados,0208_2022e.pdf
-08,080450,"Guavas, mangoes and mangosteens",0208_2022e.pdf
-08,080510,Oranges,0208_2022e.pdf
-08,080521,Mandarins (including tangerines and satsumas),0208_2022e.pdf
-08,080522,Clementines,0208_2022e.pdf
-08,080529,Other,0208_2022e.pdf
-08,080540,Grapefruit and pomelos,0208_2022e.pdf
-08,080550,"Lemons ( Citrus limon, Citrus limonum ) and limes ( Citrus",0208_2022e.pdf
-08,080590,Other,0208_2022e.pdf
-08,080610,Fresh,0208_2022e.pdf
-08,080620,Dried,0208_2022e.pdf
-08,080711,Watermelons,0208_2022e.pdf
-08,080719,Other,0208_2022e.pdf
-08,080720,Papaws (papayas),0208_2022e.pdf
-08,080810,Apples,0208_2022e.pdf
-08,080830,Pears,0208_2022e.pdf
-08,080840,Quinces,0208_2022e.pdf
-08,080910,Apricots,0208_2022e.pdf
-08,080921,Sour cherries (Prunus cerasus),0208_2022e.pdf
-08,080929,Other,0208_2022e.pdf
-08,080930,"Peaches, including nectarines",0208_2022e.pdf
-08,080940,Plums and sloes,0208_2022e.pdf
-08,081010,Strawberries,0208_2022e.pdf
-08,081020,"Raspberries, blackberries, mulberries and loganberries",0208_2022e.pdf
-08,081030,"Black, white or red currants and gooseberries",0208_2022e.pdf
-08,081040,"Cranberries, bilberries and other fruits of the genus Vaccinium",0208_2022e.pdf
-08,081050,Kiwifruit,0208_2022e.pdf
-08,081060,Durians,0208_2022e.pdf
-08,081070,Persimmons,0208_2022e.pdf
-08,081090,Other,0208_2022e.pdf
-08,081110,Strawberries,0208_2022e.pdf
-08,081120,"Raspberries, blackberries, mulberries, loganberries, black, white or",0208_2022e.pdf
-08,081190,Other,0208_2022e.pdf
-08,081210,Cherries,0208_2022e.pdf
-08,081290,Other,0208_2022e.pdf
-08,081310,Apricots,0208_2022e.pdf
-08,081320,Prunes,0208_2022e.pdf
-08,081330,Apples,0208_2022e.pdf
-08,081340,Other fruit,0208_2022e.pdf
-08,081350,Mixtures of nuts or dried fruits of this Chapter,0208_2022e.pdf
+07,070810,"Leguminous vegetables, shelled or unshelled, fresh or chilled - Peas (Pisum sativum)",0207_2022e.pdf
+07,070820,"Leguminous vegetables, shelled or unshelled, fresh or chilled - Beans (Vigna spp., Phaseolus spp.)",0207_2022e.pdf
+07,070890,"Leguminous vegetables, shelled or unshelled, fresh or chilled - Other leguminous vegetables",0207_2022e.pdf
+07,070920,"Other vegetables, fresh or chilled - Asparagus",0207_2022e.pdf
+07,070930,"Other vegetables, fresh or chilled - Aubergines (egg-plants)",0207_2022e.pdf
+07,070940,"Other vegetables, fresh or chilled - Celery other than celeriac",0207_2022e.pdf
+07,070951,"Other vegetables, fresh or chilled - Mushrooms of the genus Agaricus",0207_2022e.pdf
+07,070952,"Other vegetables, fresh or chilled - Mushrooms of the genus Boletus",0207_2022e.pdf
+07,070953,"Other vegetables, fresh or chilled - Mushrooms of the genus Cantharellus",0207_2022e.pdf
+07,070954,"Other vegetables, fresh or chilled - Shiitake (Lentinus edodes)",0207_2022e.pdf
+07,070955,"Other vegetables, fresh or chilled - Matsutake ( Tricholoma matsutake, Tricholoma magnivelare,",0207_2022e.pdf
+07,070956,"Other vegetables, fresh or chilled - Truffles (Tuber spp.)",0207_2022e.pdf
+07,070959,"Other vegetables, fresh or chilled - Other",0207_2022e.pdf
+07,070960,"Other vegetables, fresh or chilled - Fruits of the genus Capsicum or of the genus Pimenta",0207_2022e.pdf
+07,070970,"Other vegetables, fresh or chilled - Spinach, New Zealand spinach and orache spinach (garden spinach)",0207_2022e.pdf
+07,070991,"Other vegetables, fresh or chilled - Globe artichokes",0207_2022e.pdf
+07,070992,"Other vegetables, fresh or chilled - Olives",0207_2022e.pdf
+07,070993,"Other vegetables, fresh or chilled - Pumpkins, squash and gourds (Cucurbita spp.)",0207_2022e.pdf
+07,070999,"Other vegetables, fresh or chilled - Other",0207_2022e.pdf
+07,071010,"Vegetables (uncooked or cooked by steaming or boiling in water), - Potatoes",0207_2022e.pdf
+07,071021,"Vegetables (uncooked or cooked by steaming or boiling in water), - Peas (Pisum sativum)",0207_2022e.pdf
+07,071022,"Vegetables (uncooked or cooked by steaming or boiling in water), - Beans (Vigna spp., Phaseolus spp.)",0207_2022e.pdf
+07,071029,"Vegetables (uncooked or cooked by steaming or boiling in water), - Other",0207_2022e.pdf
+07,071030,"Vegetables (uncooked or cooked by steaming or boiling in water), - Spinach, New Zealand spinach and orache spinach (garden spinach)",0207_2022e.pdf
+07,071040,"Vegetables (uncooked or cooked by steaming or boiling in water), - Sweet corn",0207_2022e.pdf
+07,071080,"Vegetables (uncooked or cooked by steaming or boiling in water), - Other vegetables",0207_2022e.pdf
+07,071090,"Vegetables (uncooked or cooked by steaming or boiling in water), - Mixtures of vegetables",0207_2022e.pdf
+07,071120,"Vegetables provisionally preserved, but unsuitable in that state - Olives",0207_2022e.pdf
+07,071140,"Vegetables provisionally preserved, but unsuitable in that state - Cucumbers and gherkins",0207_2022e.pdf
+07,071151,"Vegetables provisionally preserved, but unsuitable in that state - Mushrooms of the genus Agaricus",0207_2022e.pdf
+07,071159,"Vegetables provisionally preserved, but unsuitable in that state - Other",0207_2022e.pdf
+07,071190,"Vegetables provisionally preserved, but unsuitable in that state - Other vegetables; mixtures of vegetables",0207_2022e.pdf
+07,071220,"Dried vegetables, whole, cut, sliced, broken or in powder, but not - Onions",0207_2022e.pdf
+07,071231,"Dried vegetables, whole, cut, sliced, broken or in powder, but not - Mushrooms of the genus Agaricus",0207_2022e.pdf
+07,071232,"Dried vegetables, whole, cut, sliced, broken or in powder, but not - Wood ears (Auricularia spp.)",0207_2022e.pdf
+07,071233,"Dried vegetables, whole, cut, sliced, broken or in powder, but not - Jelly fungi (Tremella spp.)",0207_2022e.pdf
+07,071234,"Dried vegetables, whole, cut, sliced, broken or in powder, but not - Shiitake (Lentinus edodes)",0207_2022e.pdf
+07,071239,"Dried vegetables, whole, cut, sliced, broken or in powder, but not - Other",0207_2022e.pdf
+07,071290,"Dried vegetables, whole, cut, sliced, broken or in powder, but not - Other vegetables; mixtures of vegetables",0207_2022e.pdf
+07,071310,"Dried leguminous vegetables, shelled, whether or not skinned or - Peas (Pisum sativum)",0207_2022e.pdf
+07,071320,"Dried leguminous vegetables, shelled, whether or not skinned or - Chickpeas (garbanzos)",0207_2022e.pdf
+07,071331,"Dried leguminous vegetables, shelled, whether or not skinned or - Beans of the species Vigna mungo (L.) Hepper or Vigna radiata",0207_2022e.pdf
+07,071332,"Dried leguminous vegetables, shelled, whether or not skinned or - Small red (Adzuki) beans (Phaseolus or Vigna angularis)",0207_2022e.pdf
+07,071333,"Dried leguminous vegetables, shelled, whether or not skinned or - Kidney beans, including white pea beans (Phaseolus vulgaris)",0207_2022e.pdf
+07,071334,"Dried leguminous vegetables, shelled, whether or not skinned or - Bambara beans (Vigna subterranea or Voandzeia subterranea)",0207_2022e.pdf
+07,071335,"Dried leguminous vegetables, shelled, whether or not skinned or - Cow peas (Vigna unguiculata)",0207_2022e.pdf
+07,071339,"Dried leguminous vegetables, shelled, whether or not skinned or - Other",0207_2022e.pdf
+07,071340,"Dried leguminous vegetables, shelled, whether or not skinned or - Lentils",0207_2022e.pdf
+07,071350,"Dried leguminous vegetables, shelled, whether or not skinned or - Broad beans ( Vicia faba var. major ) and horse beans ( Vicia faba",0207_2022e.pdf
+07,071360,"Dried leguminous vegetables, shelled, whether or not skinned or - Pigeon peas (Cajanus cajan)",0207_2022e.pdf
+07,071390,"Dried leguminous vegetables, shelled, whether or not skinned or - Other",0207_2022e.pdf
+07,071410,"Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes - Manioc (cassava)",0207_2022e.pdf
+07,071420,"Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes - Sweet potatoes",0207_2022e.pdf
+07,071430,"Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes - Yams (Dioscorea spp.)",0207_2022e.pdf
+07,071440,"Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes - Taro (Colocasia spp.)",0207_2022e.pdf
+07,071450,"Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes - Yautia (Xanthosoma spp.)",0207_2022e.pdf
+07,071490,"Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes - Other",0207_2022e.pdf
+08,080111,"Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether - Desiccated",0208_2022e.pdf
+08,080112,"Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether - In the inner shell (endocarp)",0208_2022e.pdf
+08,080119,"Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether - Other",0208_2022e.pdf
+08,080121,"Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether - In shell",0208_2022e.pdf
+08,080122,"Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether - Shelled",0208_2022e.pdf
+08,080131,"Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether - In shell",0208_2022e.pdf
+08,080132,"Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether - Shelled",0208_2022e.pdf
+08,080211,"Other nuts, fresh or dried, whether or not shelled or peeled - In shell",0208_2022e.pdf
+08,080212,"Other nuts, fresh or dried, whether or not shelled or peeled - Shelled",0208_2022e.pdf
+08,080221,"Other nuts, fresh or dried, whether or not shelled or peeled - In shell",0208_2022e.pdf
+08,080222,"Other nuts, fresh or dried, whether or not shelled or peeled - Shelled",0208_2022e.pdf
+08,080231,"Other nuts, fresh or dried, whether or not shelled or peeled - In shell",0208_2022e.pdf
+08,080232,"Other nuts, fresh or dried, whether or not shelled or peeled - Shelled",0208_2022e.pdf
+08,080241,"Other nuts, fresh or dried, whether or not shelled or peeled - In shell",0208_2022e.pdf
+08,080242,"Other nuts, fresh or dried, whether or not shelled or peeled - Shelled",0208_2022e.pdf
+08,080251,"Other nuts, fresh or dried, whether or not shelled or peeled - In shell",0208_2022e.pdf
+08,080252,"Other nuts, fresh or dried, whether or not shelled or peeled - Shelled",0208_2022e.pdf
+08,080261,"Other nuts, fresh or dried, whether or not shelled or peeled - In shell",0208_2022e.pdf
+08,080262,"Other nuts, fresh or dried, whether or not shelled or peeled - Shelled",0208_2022e.pdf
+08,080270,"Other nuts, fresh or dried, whether or not shelled or peeled - Kola nuts (Cola spp.)",0208_2022e.pdf
+08,080280,"Other nuts, fresh or dried, whether or not shelled or peeled - Areca nuts",0208_2022e.pdf
+08,080291,"Other nuts, fresh or dried, whether or not shelled or peeled - Pine nuts, in shell",0208_2022e.pdf
+08,080292,"Other nuts, fresh or dried, whether or not shelled or peeled - Pine nuts, shelled",0208_2022e.pdf
+08,080299,"Other nuts, fresh or dried, whether or not shelled or peeled - Other",0208_2022e.pdf
+08,080310,"Bananas, including plantains, fresh or dried - Plantains",0208_2022e.pdf
+08,080390,"Bananas, including plantains, fresh or dried - Other",0208_2022e.pdf
+08,080410,"Dates, figs, pineapples, avocados, guavas, mangoes and - Dates",0208_2022e.pdf
+08,080420,"Dates, figs, pineapples, avocados, guavas, mangoes and - Figs",0208_2022e.pdf
+08,080430,"Dates, figs, pineapples, avocados, guavas, mangoes and - Pineapples",0208_2022e.pdf
+08,080440,"Dates, figs, pineapples, avocados, guavas, mangoes and - Avocados",0208_2022e.pdf
+08,080450,"Dates, figs, pineapples, avocados, guavas, mangoes and - Guavas, mangoes and mangosteens",0208_2022e.pdf
+08,080510,"Citrus fruit, fresh or dried - Oranges",0208_2022e.pdf
+08,080521,"Citrus fruit, fresh or dried - Mandarins (including tangerines and satsumas)",0208_2022e.pdf
+08,080522,"Citrus fruit, fresh or dried - Clementines",0208_2022e.pdf
+08,080529,"Citrus fruit, fresh or dried - Other",0208_2022e.pdf
+08,080540,"Citrus fruit, fresh or dried - Grapefruit and pomelos",0208_2022e.pdf
+08,080550,"Citrus fruit, fresh or dried - Lemons ( Citrus limon, Citrus limonum ) and limes ( Citrus",0208_2022e.pdf
+08,080590,"Citrus fruit, fresh or dried - Other",0208_2022e.pdf
+08,080610,"Grapes, fresh or dried - Fresh",0208_2022e.pdf
+08,080620,"Grapes, fresh or dried - Dried",0208_2022e.pdf
+08,080711,"Melons (including watermelons) and papaws (papayas), fresh - Watermelons",0208_2022e.pdf
+08,080719,"Melons (including watermelons) and papaws (papayas), fresh - Other",0208_2022e.pdf
+08,080720,"Melons (including watermelons) and papaws (papayas), fresh - Papaws (papayas)",0208_2022e.pdf
+08,080810,"Apples, pears and quinces, fresh - Apples",0208_2022e.pdf
+08,080830,"Apples, pears and quinces, fresh - Pears",0208_2022e.pdf
+08,080840,"Apples, pears and quinces, fresh - Quinces",0208_2022e.pdf
+08,080910,"Apricots, cherries, peaches (including nectarines), plums and - Apricots",0208_2022e.pdf
+08,080921,"Apricots, cherries, peaches (including nectarines), plums and - Sour cherries (Prunus cerasus)",0208_2022e.pdf
+08,080929,"Apricots, cherries, peaches (including nectarines), plums and - Other",0208_2022e.pdf
+08,080930,"Apricots, cherries, peaches (including nectarines), plums and - Peaches, including nectarines",0208_2022e.pdf
+08,080940,"Apricots, cherries, peaches (including nectarines), plums and - Plums and sloes",0208_2022e.pdf
+08,081010,"Other fruit, fresh - Strawberries",0208_2022e.pdf
+08,081020,"Other fruit, fresh - Raspberries, blackberries, mulberries and loganberries",0208_2022e.pdf
+08,081030,"Other fruit, fresh - Black, white or red currants and gooseberries",0208_2022e.pdf
+08,081040,"Other fruit, fresh - Cranberries, bilberries and other fruits of the genus Vaccinium",0208_2022e.pdf
+08,081050,"Other fruit, fresh - Kiwifruit",0208_2022e.pdf
+08,081060,"Other fruit, fresh - Durians",0208_2022e.pdf
+08,081070,"Other fruit, fresh - Persimmons",0208_2022e.pdf
+08,081090,"Other fruit, fresh - Other",0208_2022e.pdf
+08,081110,"Fruit and nuts, uncooked or cooked by steaming or boiling in - Strawberries",0208_2022e.pdf
+08,081120,"Fruit and nuts, uncooked or cooked by steaming or boiling in - Raspberries, blackberries, mulberries, loganberries, black, white or",0208_2022e.pdf
+08,081190,"Fruit and nuts, uncooked or cooked by steaming or boiling in - Other",0208_2022e.pdf
+08,081210,"Fruit and nuts provisionally preserved, but unsuitable in that - Cherries",0208_2022e.pdf
+08,081290,"Fruit and nuts provisionally preserved, but unsuitable in that - Other",0208_2022e.pdf
+08,081310,"Fruit, dried, other than that of headings 08.01 to 08.06; mixtures - Apricots",0208_2022e.pdf
+08,081320,"Fruit, dried, other than that of headings 08.01 to 08.06; mixtures - Prunes",0208_2022e.pdf
+08,081330,"Fruit, dried, other than that of headings 08.01 to 08.06; mixtures - Apples",0208_2022e.pdf
+08,081340,"Fruit, dried, other than that of headings 08.01 to 08.06; mixtures - Other fruit",0208_2022e.pdf
+08,081350,"Fruit, dried, other than that of headings 08.01 to 08.06; mixtures - Mixtures of nuts or dried fruits of this Chapter",0208_2022e.pdf
 08,081400,"Peel of citrus fruit or melons (including watermelons), fresh,",0208_2022e.pdf
-09,090111,Not decaffeinated,0209_2022e.pdf
-09,090112,Decaffeinated,0209_2022e.pdf
-09,090121,Not decaffeinated,0209_2022e.pdf
-09,090122,Decaffeinated,0209_2022e.pdf
-09,090190,Other,0209_2022e.pdf
-09,090210,Green tea (not fermented) in immediate packings of a content not,0209_2022e.pdf
-09,090220,Other green tea (not fermented),0209_2022e.pdf
-09,090230,"Black tea (fermented) and partly fermented tea, in immediate",0209_2022e.pdf
-09,090240,Other black tea (fermented) and other partly fermented tea,0209_2022e.pdf
+09,090111,"Coffee, whether or not roasted or decaffeinated; coffee husks and - Not decaffeinated",0209_2022e.pdf
+09,090112,"Coffee, whether or not roasted or decaffeinated; coffee husks and - Decaffeinated",0209_2022e.pdf
+09,090121,"Coffee, whether or not roasted or decaffeinated; coffee husks and - Not decaffeinated",0209_2022e.pdf
+09,090122,"Coffee, whether or not roasted or decaffeinated; coffee husks and - Decaffeinated",0209_2022e.pdf
+09,090190,"Coffee, whether or not roasted or decaffeinated; coffee husks and - Other",0209_2022e.pdf
+09,090210,"Tea, whether or not flavoured - Green tea (not fermented) in immediate packings of a content not",0209_2022e.pdf
+09,090220,"Tea, whether or not flavoured - Other green tea (not fermented)",0209_2022e.pdf
+09,090230,"Tea, whether or not flavoured - Black tea (fermented) and partly fermented tea, in immediate",0209_2022e.pdf
+09,090240,"Tea, whether or not flavoured - Other black tea (fermented) and other partly fermented tea",0209_2022e.pdf
 09,090300,Maté,0209_2022e.pdf
-09,090411,Neither crushed nor ground,0209_2022e.pdf
-09,090412,Crushed or ground,0209_2022e.pdf
-09,090421,"Dried, neither crushed nor ground",0209_2022e.pdf
-09,090422,Crushed or ground,0209_2022e.pdf
-09,090510,Neither crushed nor ground,0209_2022e.pdf
-09,090520,Crushed or ground,0209_2022e.pdf
-09,090611,Cinnamon (Cinnamomum zeylanicum Blume),0209_2022e.pdf
-09,090619,Other,0209_2022e.pdf
-09,090620,Crushed or ground,0209_2022e.pdf
-09,090710,Neither crushed nor ground,0209_2022e.pdf
-09,090720,Crushed or ground,0209_2022e.pdf
-09,090811,Neither crushed nor ground,0209_2022e.pdf
-09,090812,Crushed or ground,0209_2022e.pdf
-09,090821,Neither crushed nor ground,0209_2022e.pdf
-09,090822,Crushed or ground,0209_2022e.pdf
-09,090831,Neither crushed nor ground,0209_2022e.pdf
-09,090832,Crushed or ground,0209_2022e.pdf
-09,090921,Neither crushed nor ground,0209_2022e.pdf
-09,090922,Crushed or ground,0209_2022e.pdf
-09,090931,Neither crushed nor ground,0209_2022e.pdf
-09,090932,Crushed or ground,0209_2022e.pdf
-09,090961,Neither crushed nor ground,0209_2022e.pdf
-09,090962,Crushed or ground,0209_2022e.pdf
-09,091011,Neither crushed nor ground,0209_2022e.pdf
-09,091012,Crushed or ground,0209_2022e.pdf
-09,091020,Saffron,0209_2022e.pdf
-09,091030,Turmeric (curcuma),0209_2022e.pdf
-09,091091,Mixtures referred to in Note 1 (b) to this Chapter,0209_2022e.pdf
-09,091099,Other,0209_2022e.pdf
-10,100111,Seed,0210_2022e.pdf
-10,100119,Other,0210_2022e.pdf
-10,100191,Seed,0210_2022e.pdf
-10,100199,Other,0210_2022e.pdf
-10,100210,Seed,0210_2022e.pdf
-10,100290,Other,0210_2022e.pdf
-10,100310,Seed,0210_2022e.pdf
-10,100390,Other,0210_2022e.pdf
-10,100410,Seed,0210_2022e.pdf
-10,100490,Other,0210_2022e.pdf
-10,100510,Seed,0210_2022e.pdf
-10,100590,Other,0210_2022e.pdf
-10,100610,Rice in the husk (paddy or rough),0210_2022e.pdf
-10,100620,Husked (brown) rice,0210_2022e.pdf
-10,100630,"Semi-milled or wholly milled rice, whether or not polished or",0210_2022e.pdf
-10,100640,Broken rice,0210_2022e.pdf
-10,100710,Seed,0210_2022e.pdf
-10,100790,Other,0210_2022e.pdf
-10,100810,Buckwheat,0210_2022e.pdf
-10,100821,Seed,0210_2022e.pdf
-10,100829,Other,0210_2022e.pdf
-10,100830,Canary seeds,0210_2022e.pdf
-10,100840,Fonio (Digitaria spp.),0210_2022e.pdf
-10,100850,Quinoa (Chenopodium quinoa),0210_2022e.pdf
-10,100860,Triticale,0210_2022e.pdf
-10,100890,Other cereals,0210_2022e.pdf
+09,090411,Pepper of the genus Piper; dried or crushed or ground fruits of - Neither crushed nor ground,0209_2022e.pdf
+09,090412,Pepper of the genus Piper; dried or crushed or ground fruits of - Crushed or ground,0209_2022e.pdf
+09,090421,"Pepper of the genus Piper; dried or crushed or ground fruits of - Dried, neither crushed nor ground",0209_2022e.pdf
+09,090422,Pepper of the genus Piper; dried or crushed or ground fruits of - Crushed or ground,0209_2022e.pdf
+09,090510,Vanilla - Neither crushed nor ground,0209_2022e.pdf
+09,090520,Vanilla - Crushed or ground,0209_2022e.pdf
+09,090611,Cinnamon and cinnamon-tree flowers - Cinnamon (Cinnamomum zeylanicum Blume),0209_2022e.pdf
+09,090619,Cinnamon and cinnamon-tree flowers - Other,0209_2022e.pdf
+09,090620,Cinnamon and cinnamon-tree flowers - Crushed or ground,0209_2022e.pdf
+09,090710,"Cloves (whole fruit, cloves and stems) - Neither crushed nor ground",0209_2022e.pdf
+09,090720,"Cloves (whole fruit, cloves and stems) - Crushed or ground",0209_2022e.pdf
+09,090811,"Nutmeg, mace and cardamoms - Neither crushed nor ground",0209_2022e.pdf
+09,090812,"Nutmeg, mace and cardamoms - Crushed or ground",0209_2022e.pdf
+09,090821,"Nutmeg, mace and cardamoms - Neither crushed nor ground",0209_2022e.pdf
+09,090822,"Nutmeg, mace and cardamoms - Crushed or ground",0209_2022e.pdf
+09,090831,"Nutmeg, mace and cardamoms - Neither crushed nor ground",0209_2022e.pdf
+09,090832,"Nutmeg, mace and cardamoms - Crushed or ground",0209_2022e.pdf
+09,090921,"Seeds of anise, badian, fennel, coriander, cumin or caraway; - Neither crushed nor ground",0209_2022e.pdf
+09,090922,"Seeds of anise, badian, fennel, coriander, cumin or caraway; - Crushed or ground",0209_2022e.pdf
+09,090931,"Seeds of anise, badian, fennel, coriander, cumin or caraway; - Neither crushed nor ground",0209_2022e.pdf
+09,090932,"Seeds of anise, badian, fennel, coriander, cumin or caraway; - Crushed or ground",0209_2022e.pdf
+09,090961,"Seeds of anise, badian, fennel, coriander, cumin or caraway; - Neither crushed nor ground",0209_2022e.pdf
+09,090962,"Seeds of anise, badian, fennel, coriander, cumin or caraway; - Crushed or ground",0209_2022e.pdf
+09,091011,"Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry - Neither crushed nor ground",0209_2022e.pdf
+09,091012,"Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry - Crushed or ground",0209_2022e.pdf
+09,091020,"Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry - Saffron",0209_2022e.pdf
+09,091030,"Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry - Turmeric (curcuma)",0209_2022e.pdf
+09,091091,"Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry - Mixtures referred to in Note 1 (b) to this Chapter",0209_2022e.pdf
+09,091099,"Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry - Other",0209_2022e.pdf
+10,100111,Wheat and meslin - Seed,0210_2022e.pdf
+10,100119,Wheat and meslin - Other,0210_2022e.pdf
+10,100191,Wheat and meslin - Seed,0210_2022e.pdf
+10,100199,Wheat and meslin - Other,0210_2022e.pdf
+10,100210,Rye - Seed,0210_2022e.pdf
+10,100290,Rye - Other,0210_2022e.pdf
+10,100310,Barley - Seed,0210_2022e.pdf
+10,100390,Barley - Other,0210_2022e.pdf
+10,100410,Oats - Seed,0210_2022e.pdf
+10,100490,Oats - Other,0210_2022e.pdf
+10,100510,Maize (corn) - Seed,0210_2022e.pdf
+10,100590,Maize (corn) - Other,0210_2022e.pdf
+10,100610,Rice - Rice in the husk (paddy or rough),0210_2022e.pdf
+10,100620,Rice - Husked (brown) rice,0210_2022e.pdf
+10,100630,"Rice - Semi-milled or wholly milled rice, whether or not polished or",0210_2022e.pdf
+10,100640,Rice - Broken rice,0210_2022e.pdf
+10,100710,Grain sorghum - Seed,0210_2022e.pdf
+10,100790,Grain sorghum - Other,0210_2022e.pdf
+10,100810,"Buckwheat, millet and canary seeds; other cereals - Buckwheat",0210_2022e.pdf
+10,100821,"Buckwheat, millet and canary seeds; other cereals - Seed",0210_2022e.pdf
+10,100829,"Buckwheat, millet and canary seeds; other cereals - Other",0210_2022e.pdf
+10,100830,"Buckwheat, millet and canary seeds; other cereals - Canary seeds",0210_2022e.pdf
+10,100840,"Buckwheat, millet and canary seeds; other cereals - Fonio (Digitaria spp.)",0210_2022e.pdf
+10,100850,"Buckwheat, millet and canary seeds; other cereals - Quinoa (Chenopodium quinoa)",0210_2022e.pdf
+10,100860,"Buckwheat, millet and canary seeds; other cereals - Triticale",0210_2022e.pdf
+10,100890,"Buckwheat, millet and canary seeds; other cereals - Other cereals",0210_2022e.pdf
 11,110100,Wheat or meslin flour,0211_2022e.pdf
-11,110220,Maize (corn) flour,0211_2022e.pdf
-11,110290,Other,0211_2022e.pdf
-11,110311,Of wheat,0211_2022e.pdf
-11,110313,Of maize (corn),0211_2022e.pdf
-11,110319,Of other cereals,0211_2022e.pdf
-11,110320,Pellets,0211_2022e.pdf
-11,110412,Of oats,0211_2022e.pdf
-11,110419,Of other cereals,0211_2022e.pdf
-11,110422,Of oats,0211_2022e.pdf
-11,110423,Of maize (corn),0211_2022e.pdf
-11,110429,Of other cereals,0211_2022e.pdf
-11,110430,"Germ of cereals, whole, rolled, flaked or ground",0211_2022e.pdf
-11,110510,"Flour, meal and powder",0211_2022e.pdf
-11,110520,"Flakes, granules and pellets",0211_2022e.pdf
-11,110610,Of the dried leguminous vegetables of heading 07.13,0211_2022e.pdf
-07,110620,Of sago or of roots or tubers of heading 07.14,0211_2022e.pdf
-11,110630,Of the products of Chapter 8,0211_2022e.pdf
-11,110710,Not roasted,0211_2022e.pdf
-11,110720,Roasted,0211_2022e.pdf
-11,110811,Wheat starch,0211_2022e.pdf
-11,110812,Maize (corn) starch,0211_2022e.pdf
-11,110813,Potato starch,0211_2022e.pdf
-11,110814,Manioc (cassava) starch,0211_2022e.pdf
-11,110819,Other starches,0211_2022e.pdf
-11,110820,Inulin,0211_2022e.pdf
+11,110220,Cereal flours other than of wheat or meslin - Maize (corn) flour,0211_2022e.pdf
+11,110290,Cereal flours other than of wheat or meslin - Other,0211_2022e.pdf
+11,110311,"Cereal groats, meal and pellets - Of wheat",0211_2022e.pdf
+11,110313,"Cereal groats, meal and pellets - Of maize (corn)",0211_2022e.pdf
+11,110319,"Cereal groats, meal and pellets - Of other cereals",0211_2022e.pdf
+11,110320,"Cereal groats, meal and pellets - Pellets",0211_2022e.pdf
+11,110412,"Cereal grains othe rwise worked (for example, hulled, rolled, - Of oats",0211_2022e.pdf
+11,110419,"Cereal grains othe rwise worked (for example, hulled, rolled, - Of other cereals",0211_2022e.pdf
+11,110422,"Cereal grains othe rwise worked (for example, hulled, rolled, - Of oats",0211_2022e.pdf
+11,110423,"Cereal grains othe rwise worked (for example, hulled, rolled, - Of maize (corn)",0211_2022e.pdf
+11,110429,"Cereal grains othe rwise worked (for example, hulled, rolled, - Of other cereals",0211_2022e.pdf
+11,110430,"Cereal grains othe rwise worked (for example, hulled, rolled, - Germ of cereals, whole, rolled, flaked or ground",0211_2022e.pdf
+11,110510,"Flour, meal, powder, flakes, granules and pellets of potatoes - Flour, meal and powder",0211_2022e.pdf
+11,110520,"Flour, meal, powder, flakes, granules and pellets of potatoes - Flakes, granules and pellets",0211_2022e.pdf
+11,110610,Of sago or of roots or tubers of heading 07.14 - Of the dried leguminous vegetables of heading 07.13,0211_2022e.pdf
+11,110620,Of sago or of roots or tubers of heading 07.14 - Of sago or of roots or tubers of heading 07.14,0211_2022e.pdf
+11,110630,Of sago or of roots or tubers of heading 07.14 - Of the products of Chapter 8,0211_2022e.pdf
+11,110710,"Malt, whether or not roasted - Not roasted",0211_2022e.pdf
+11,110720,"Malt, whether or not roasted - Roasted",0211_2022e.pdf
+11,110811,Starches; inulin - Wheat starch,0211_2022e.pdf
+11,110812,Starches; inulin - Maize (corn) starch,0211_2022e.pdf
+11,110813,Starches; inulin - Potato starch,0211_2022e.pdf
+11,110814,Starches; inulin - Manioc (cassava) starch,0211_2022e.pdf
+11,110819,Starches; inulin - Other starches,0211_2022e.pdf
+11,110820,Starches; inulin - Inulin,0211_2022e.pdf
 11,110900,"Wheat gluten, whether or not dried",0211_2022e.pdf
